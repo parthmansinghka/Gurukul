@@ -1,0 +1,2 @@
+# Gurukul
+Gurukul will be a simple to use, on demand self-service portal which aims at not only reducing the workload of the hostel administration staff but also provide the student to get their needs served efficiently without delays or any inconvenience. It will also reduce the carbon footprint by minimizing the paperwork.  It will ensure that there is no unaddressed requests because of timing mismatches between the administration and the students.
